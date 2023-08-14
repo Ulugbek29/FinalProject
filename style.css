@@ -384,7 +384,10 @@ ul li a {
 }
 
 
-
+.row-r {
+    display: flex;
+    gap: 1rem;
+}
 
 
 
