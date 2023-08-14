@@ -262,7 +262,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
-        padding: 1rem 8%;
+        padding: 2rem 8%;
 }
 footer ul{
     display: flex;
