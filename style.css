@@ -207,6 +207,90 @@ ul li a {
 
 /*=============== OTABEK SECTIONS ===============*/
 
+display: flex;
+}
+.box1{
+    width: 484px;
+    height: 412px;
+    flex-shrink: 0;  
+    border-radius: 16px;
+    border: 4px solid var(--black, #303031);
+    background: var(--white, #FFF);  
+   
+}
+.box{
+    display: flex;
+}
+.jassir2{
+    width: 117px;
+    height: 117px;
+    flex-shrink: 0;
+    margin-top: 10px;
+    margin-left: 10px;
+     border-radius: 50%;
+
+}
+.hash{
+    color: var(--black, #303031);
+font-family: Novel Mono Pro;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px; 
+letter-spacing: -0.48px;
+
+}
+
+.yoz{
+  padding-left: 20px;
+}
+
+.div2{
+    font-size: 20px;
+    margin-left: 15px;
+}
+.matn1{
+    width: 100%;
+    height: 30%;
+  
+    display: flex;
+    gap: 250px;
+
+}
+.matn2{
+margin-left: 20px;
+}
+.matn3{
+
+}
+button{
+    border-radius: 16px;
+background: var(--black, #303031);
+display: flex;
+width: 404px;
+padding: 12px 24px;
+margin-left: 20px;
+flex-direction: column;
+align-items: center;
+gap: 10px;
+}
+
+.box-2{
+    width:444px;
+    height:334px;
+    padding: 50px;
+    margin-left: 100px;
+  }
+  .picture{
+    width:80px;
+    height:80px;
+  }
+  .picture-text{
+    width:100%;
+    height: 60%;
+    margin-top:5%;
+  }
+
 
 
 
